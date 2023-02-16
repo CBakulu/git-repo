@@ -1,0 +1,573 @@
+_id,Term,First Name,Last Name,Committee,MTG #,Session Date,Session Type,Session Start-End Time,Present
+1,2022-2026,Paula,Fletcher,CreateTO,1,2022-11-18,Morning,09:31AM - 09:50AM,N
+2,2022-2026,Paul,Ainslie,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+3,2022-2026,Brad,Bradford,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+4,2022-2026,Alejandra,Bravo,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+5,2022-2026,Jon,Burnside,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+6,2022-2026,Shelley,Carroll,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+7,2022-2026,Lily,Cheng,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+8,2022-2026,Mike,Colle,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+9,2022-2026,Gary,Crawford,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+10,2022-2026,Vincent,Crisanti,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+11,2022-2026,Paula,Fletcher,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+12,2022-2026,Stephen,Holyday,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+13,2022-2026,Ausma,Malik,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+14,2022-2026,Nick,Mantas,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+15,2022-2026,Josh,Matlow,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+16,2022-2026,Jennifer,McKelvie,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+17,2022-2026,Chris,Moise,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+18,2022-2026,Amber,Morley,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+19,2022-2026,Jamaal,Myers,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+20,2022-2026,Frances,Nunziata,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+21,2022-2026,James,Pasternak,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+22,2022-2026,Gord,Perks,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+23,2022-2026,Anthony,Perruzza,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+24,2022-2026,Jaye,Robinson,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+25,2022-2026,Dianne,Saxe,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+26,2022-2026,Michael,Thompson,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+27,2022-2026,John,Tory,City Council,1,2022-11-23,Afternoon,14:03PM - 15:25PM,Y
+28,2022-2026,Brad,Bradford,Striking Committee,1,2022-11-24,Morning,09:35AM - 10:05AM,Y
+29,2022-2026,Gary,Crawford,Striking Committee,1,2022-11-24,Morning,09:35AM - 10:05AM,Y
+30,2022-2026,Jennifer,McKelvie,Striking Committee,1,2022-11-24,Morning,09:35AM - 10:05AM,Y
+31,2022-2026,Frances,Nunziata,Striking Committee,1,2022-11-24,Morning,09:35AM - 10:05AM,Y
+32,2022-2026,James,Pasternak,Striking Committee,1,2022-11-24,Morning,09:35AM - 10:05AM,Y
+33,2022-2026,Paul,Ainslie,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+34,2022-2026,Brad,Bradford,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+35,2022-2026,Alejandra,Bravo,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+36,2022-2026,Jon,Burnside,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+37,2022-2026,Shelley,Carroll,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+38,2022-2026,Lily,Cheng,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+39,2022-2026,Mike,Colle,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+40,2022-2026,Gary,Crawford,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+41,2022-2026,Vincent,Crisanti,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+42,2022-2026,Paula,Fletcher,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+43,2022-2026,Stephen,Holyday,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+44,2022-2026,Ausma,Malik,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+45,2022-2026,Nick,Mantas,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+46,2022-2026,Josh,Matlow,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+47,2022-2026,Jennifer,McKelvie,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+48,2022-2026,Chris,Moise,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+49,2022-2026,Amber,Morley,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+50,2022-2026,Jamaal,Myers,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+51,2022-2026,Frances,Nunziata,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+52,2022-2026,James,Pasternak,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+53,2022-2026,Gord,Perks,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+54,2022-2026,Anthony,Perruzza,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+55,2022-2026,Jaye,Robinson,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+56,2022-2026,Dianne,Saxe,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+57,2022-2026,Michael,Thompson,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+58,2022-2026,John,Tory,City Council,1,2022-11-24,Afternoon,12:13PM - 16:01PM,Y
+59,2022-2026,Paul,Ainslie,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+60,2022-2026,Brad,Bradford,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+61,2022-2026,Alejandra,Bravo,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+62,2022-2026,Jon,Burnside,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+63,2022-2026,Shelley,Carroll,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+64,2022-2026,Lily,Cheng,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+65,2022-2026,Mike,Colle,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+66,2022-2026,Gary,Crawford,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+67,2022-2026,Vincent,Crisanti,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+68,2022-2026,Paula,Fletcher,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+69,2022-2026,Stephen,Holyday,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+70,2022-2026,Ausma,Malik,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+71,2022-2026,Nick,Mantas,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+72,2022-2026,Josh,Matlow,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+73,2022-2026,Jennifer,McKelvie,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+74,2022-2026,Chris,Moise,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+75,2022-2026,Amber,Morley,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+76,2022-2026,Jamaal,Myers,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+77,2022-2026,Frances,Nunziata,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+78,2022-2026,James,Pasternak,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+79,2022-2026,Gord,Perks,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+80,2022-2026,Anthony,Perruzza,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+81,2022-2026,Jaye,Robinson,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+82,2022-2026,Dianne,Saxe,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+83,2022-2026,Michael,Thompson,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+84,2022-2026,John,Tory,City Council,1,2022-11-24,Afternoon,16:08PM - 16:35PM,Y
+85,2022-2026,Vincent,Crisanti,Etobicoke York Community Council,1,2022-11-28,Morning,09:32AM - 10:35AM,Y
+86,2022-2026,Stephen,Holyday,Etobicoke York Community Council,1,2022-11-28,Morning,09:32AM - 10:35AM,Y
+87,2022-2026,Amber,Morley,Etobicoke York Community Council,1,2022-11-28,Morning,09:32AM - 10:35AM,Y
+88,2022-2026,Frances,Nunziata,Etobicoke York Community Council,1,2022-11-28,Morning,09:32AM - 10:35AM,Y
+89,2022-2026,Anthony,Perruzza,Etobicoke York Community Council,1,2022-11-28,Morning,09:32AM - 10:35AM,Y
+90,2022-2026,Jon,Burnside,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+91,2022-2026,Shelley,Carroll,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+92,2022-2026,Lily,Cheng,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+93,2022-2026,Mike,Colle,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+94,2022-2026,James,Pasternak,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+95,2022-2026,Jaye,Robinson,North York Community Council,1,2022-11-29,Morning,09:34AM - 12:41PM,Y
+96,2022-2026,Brad,Bradford,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+97,2022-2026,Alejandra,Bravo,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+98,2022-2026,Paula,Fletcher,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+99,2022-2026,Ausma,Malik,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+100,2022-2026,Josh,Matlow,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+101,2022-2026,Chris,Moise,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+102,2022-2026,Gord,Perks,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+103,2022-2026,Dianne,Saxe,Toronto and East York Community Council,1,2022-11-30,Morning,09:36AM - 12:30PM,Y
+104,2022-2026,Paul,Ainslie,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+105,2022-2026,Gary,Crawford,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+106,2022-2026,Nick,Mantas,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+107,2022-2026,Jennifer,McKelvie,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+108,2022-2026,Jamaal,Myers,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+109,2022-2026,Michael,Thompson,Scarborough Community Council,1,2022-12-01,Morning,09:35AM - 10:13AM,Y
+110,2022-2026,Alejandra,Bravo,Toronto Preservation Board,1,2022-12-05,Morning,09:36AM - 10:37AM,Y
+111,2022-2026,Lily,Cheng,Board of Directors of TO Live,1,2022-12-05,Afternoon,12:38PM - 14:00PM,N
+112,2022-2026,Gary,Crawford,Board of Directors of TO Live,1,2022-12-05,Afternoon,12:38PM - 14:00PM,Y
+113,2022-2026,Chris,Moise,Board of Directors of TO Live,1,2022-12-05,Afternoon,12:38PM - 14:00PM,Y
+114,2022-2026,Lily,Cheng,Board of Directors of TO Live,1,2022-12-05,Afternoon,14:51PM - 15:02PM,N
+115,2022-2026,Gary,Crawford,Board of Directors of TO Live,1,2022-12-05,Afternoon,14:51PM - 15:02PM,Y
+116,2022-2026,Chris,Moise,Board of Directors of TO Live,1,2022-12-05,Afternoon,14:51PM - 15:02PM,Y
+117,2022-2026,Lily,Cheng,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:06PM - 15:19PM,N
+118,2022-2026,Gary,Crawford,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:06PM - 15:19PM,Y
+119,2022-2026,Chris,Moise,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:06PM - 15:19PM,Y
+120,2022-2026,Lily,Cheng,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:19PM - 15:21PM,N
+121,2022-2026,Gary,Crawford,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:19PM - 15:21PM,Y
+122,2022-2026,Chris,Moise,Board of Directors of TO Live,1,2022-12-05,Afternoon,15:19PM - 15:21PM,Y
+123,2022-2026,Paul,Ainslie,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+124,2022-2026,Brad,Bradford,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+125,2022-2026,Shelley,Carroll,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+126,2022-2026,Lily,Cheng,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+127,2022-2026,Gary,Crawford,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+128,2022-2026,Jennifer,McKelvie,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+129,2022-2026,Amber,Morley,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+130,2022-2026,James,Pasternak,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+131,2022-2026,John,Tory,Executive Committee,1,2022-12-06,Afternoon,13:36PM - 15:31PM,Y
+132,2022-2026,Gary,Crawford,Debenture Committee,1,2022-12-08,Morning,09:01AM - 09:16AM,Y
+133,2022-2026,John,Tory,Debenture Committee,1,2022-12-08,Morning,09:01AM - 09:16AM,Y
+134,2022-2026,Paul,Ainslie,Board of Management of the Toronto Zoo,1,2022-12-08,Afternoon,14:08PM - 15:07PM,Y
+135,2022-2026,Jennifer,McKelvie,Board of Management of the Toronto Zoo,1,2022-12-08,Afternoon,14:08PM - 15:07PM,Y
+136,2022-2026,Jamaal,Myers,Board of Management of the Toronto Zoo,1,2022-12-08,Afternoon,14:08PM - 15:07PM,Y
+137,2022-2026,Paul,Ainslie,Board of Governors of Exhibition Place,1,2022-12-09,Morning,09:38AM - 10:27AM,N
+138,2022-2026,Gary,Crawford,Board of Governors of Exhibition Place,1,2022-12-09,Morning,09:38AM - 10:27AM,Y
+139,2022-2026,Ausma,Malik,Board of Governors of Exhibition Place,1,2022-12-09,Morning,09:38AM - 10:27AM,Y
+140,2022-2026,Nick,Mantas,Board of Governors of Exhibition Place,1,2022-12-09,Morning,09:38AM - 10:27AM,Y
+141,2022-2026,Anthony,Perruzza,Board of Governors of Exhibition Place,1,2022-12-09,Morning,09:38AM - 10:27AM,N
+142,2022-2026,Brad,Bradford,Toronto Parking Authority,1,2022-12-12,Morning,10:36AM - 11:51AM,Y
+143,2022-2026,Chris,Moise,Toronto Parking Authority,1,2022-12-12,Morning,10:36AM - 11:51AM,Y
+144,2022-2026,Brad,Bradford,Toronto Parking Authority,1,2022-12-12,Morning,11:59AM - 12:33PM,N
+145,2022-2026,Chris,Moise,Toronto Parking Authority,1,2022-12-12,Morning,11:59AM - 12:33PM,Y
+146,2022-2026,Brad,Bradford,Toronto Parking Authority,1,2022-12-12,Morning,12:35PM - 13:38PM,N
+147,2022-2026,Chris,Moise,Toronto Parking Authority,1,2022-12-12,Morning,12:35PM - 13:38PM,Y
+148,2022-2026,Brad,Bradford,Toronto Parking Authority,1,2022-12-12,Morning,13:41PM - 14:51PM,N
+149,2022-2026,Chris,Moise,Toronto Parking Authority,1,2022-12-12,Morning,13:41PM - 14:51PM,Y
+150,2022-2026,Brad,Bradford,Toronto Parking Authority,1,2022-12-12,Morning,14:52PM - 14:55PM,N
+151,2022-2026,Chris,Moise,Toronto Parking Authority,1,2022-12-12,Morning,14:52PM - 14:55PM,Y
+152,2022-2026,Paul,Ainslie,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+153,2022-2026,Brad,Bradford,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+154,2022-2026,Alejandra,Bravo,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+155,2022-2026,Jon,Burnside,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+156,2022-2026,Shelley,Carroll,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+157,2022-2026,Lily,Cheng,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+158,2022-2026,Mike,Colle,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+159,2022-2026,Gary,Crawford,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+160,2022-2026,Vincent,Crisanti,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+161,2022-2026,Paula,Fletcher,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+162,2022-2026,Stephen,Holyday,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+163,2022-2026,Ausma,Malik,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+164,2022-2026,Nick,Mantas,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+165,2022-2026,Josh,Matlow,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+166,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+167,2022-2026,Chris,Moise,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+168,2022-2026,Amber,Morley,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+169,2022-2026,Jamaal,Myers,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+170,2022-2026,Frances,Nunziata,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+171,2022-2026,James,Pasternak,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+172,2022-2026,Gord,Perks,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+173,2022-2026,Anthony,Perruzza,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+174,2022-2026,Jaye,Robinson,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+175,2022-2026,Dianne,Saxe,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+176,2022-2026,Michael,Thompson,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+177,2022-2026,John,Tory,City Council,2,2022-12-14,Morning,09:40AM - 12:29PM,Y
+178,2022-2026,Paul,Ainslie,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+179,2022-2026,Brad,Bradford,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+180,2022-2026,Alejandra,Bravo,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+181,2022-2026,Jon,Burnside,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+182,2022-2026,Shelley,Carroll,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+183,2022-2026,Lily,Cheng,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+184,2022-2026,Mike,Colle,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,N
+185,2022-2026,Gary,Crawford,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+186,2022-2026,Vincent,Crisanti,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+187,2022-2026,Paula,Fletcher,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+188,2022-2026,Stephen,Holyday,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+189,2022-2026,Ausma,Malik,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+190,2022-2026,Nick,Mantas,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+191,2022-2026,Josh,Matlow,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+192,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+193,2022-2026,Chris,Moise,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+194,2022-2026,Amber,Morley,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+195,2022-2026,Jamaal,Myers,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+196,2022-2026,Frances,Nunziata,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+197,2022-2026,James,Pasternak,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+198,2022-2026,Gord,Perks,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+199,2022-2026,Anthony,Perruzza,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+200,2022-2026,Jaye,Robinson,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,N
+201,2022-2026,Dianne,Saxe,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+202,2022-2026,Michael,Thompson,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+203,2022-2026,John,Tory,City Council,2,2022-12-14,Afternoon,14:11PM - 16:19PM,Y
+204,2022-2026,Paul,Ainslie,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+205,2022-2026,Brad,Bradford,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+206,2022-2026,Alejandra,Bravo,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+207,2022-2026,Jon,Burnside,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+208,2022-2026,Shelley,Carroll,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+209,2022-2026,Lily,Cheng,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+210,2022-2026,Mike,Colle,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+211,2022-2026,Gary,Crawford,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+212,2022-2026,Vincent,Crisanti,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+213,2022-2026,Paula,Fletcher,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+214,2022-2026,Stephen,Holyday,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+215,2022-2026,Ausma,Malik,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+216,2022-2026,Nick,Mantas,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+217,2022-2026,Josh,Matlow,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+218,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+219,2022-2026,Chris,Moise,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+220,2022-2026,Amber,Morley,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+221,2022-2026,Jamaal,Myers,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+222,2022-2026,Frances,Nunziata,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+223,2022-2026,James,Pasternak,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+224,2022-2026,Gord,Perks,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+225,2022-2026,Anthony,Perruzza,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+226,2022-2026,Jaye,Robinson,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+227,2022-2026,Dianne,Saxe,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+228,2022-2026,Michael,Thompson,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+229,2022-2026,John,Tory,City Council,2,2022-12-14,Afternoon,16:39PM - 17:58PM,Y
+230,2022-2026,Paul,Ainslie,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+231,2022-2026,Brad,Bradford,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+232,2022-2026,Alejandra,Bravo,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+233,2022-2026,Jon,Burnside,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+234,2022-2026,Shelley,Carroll,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+235,2022-2026,Lily,Cheng,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+236,2022-2026,Mike,Colle,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+237,2022-2026,Gary,Crawford,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+238,2022-2026,Vincent,Crisanti,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+239,2022-2026,Paula,Fletcher,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+240,2022-2026,Stephen,Holyday,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+241,2022-2026,Ausma,Malik,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+242,2022-2026,Nick,Mantas,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+243,2022-2026,Josh,Matlow,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+244,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+245,2022-2026,Chris,Moise,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+246,2022-2026,Amber,Morley,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+247,2022-2026,Jamaal,Myers,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+248,2022-2026,Frances,Nunziata,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+249,2022-2026,James,Pasternak,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+250,2022-2026,Gord,Perks,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+251,2022-2026,Anthony,Perruzza,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+252,2022-2026,Jaye,Robinson,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+253,2022-2026,Dianne,Saxe,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+254,2022-2026,Michael,Thompson,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+255,2022-2026,John,Tory,City Council,2,2022-12-15,Morning,09:41AM - 12:27PM,Y
+256,2022-2026,Paul,Ainslie,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+257,2022-2026,Brad,Bradford,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+258,2022-2026,Alejandra,Bravo,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+259,2022-2026,Jon,Burnside,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+260,2022-2026,Shelley,Carroll,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+261,2022-2026,Lily,Cheng,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+262,2022-2026,Mike,Colle,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+263,2022-2026,Gary,Crawford,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+264,2022-2026,Vincent,Crisanti,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+265,2022-2026,Paula,Fletcher,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+266,2022-2026,Stephen,Holyday,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+267,2022-2026,Ausma,Malik,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+268,2022-2026,Nick,Mantas,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+269,2022-2026,Josh,Matlow,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+270,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+271,2022-2026,Chris,Moise,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+272,2022-2026,Amber,Morley,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+273,2022-2026,Jamaal,Myers,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+274,2022-2026,Frances,Nunziata,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+275,2022-2026,James,Pasternak,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+276,2022-2026,Gord,Perks,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+277,2022-2026,Anthony,Perruzza,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+278,2022-2026,Jaye,Robinson,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+279,2022-2026,Dianne,Saxe,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+280,2022-2026,Michael,Thompson,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+281,2022-2026,John,Tory,City Council,2,2022-12-15,Afternoon,13:36PM - 17:14PM,Y
+282,2022-2026,Paul,Ainslie,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+283,2022-2026,Brad,Bradford,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+284,2022-2026,Alejandra,Bravo,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+285,2022-2026,Jon,Burnside,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+286,2022-2026,Shelley,Carroll,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+287,2022-2026,Lily,Cheng,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+288,2022-2026,Mike,Colle,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+289,2022-2026,Gary,Crawford,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+290,2022-2026,Vincent,Crisanti,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+291,2022-2026,Paula,Fletcher,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+292,2022-2026,Stephen,Holyday,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+293,2022-2026,Ausma,Malik,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+294,2022-2026,Nick,Mantas,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+295,2022-2026,Josh,Matlow,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+296,2022-2026,Jennifer,McKelvie,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+297,2022-2026,Chris,Moise,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+298,2022-2026,Amber,Morley,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+299,2022-2026,Jamaal,Myers,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+300,2022-2026,Frances,Nunziata,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+301,2022-2026,James,Pasternak,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+302,2022-2026,Gord,Perks,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+303,2022-2026,Anthony,Perruzza,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+304,2022-2026,Jaye,Robinson,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+305,2022-2026,Dianne,Saxe,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+306,2022-2026,Michael,Thompson,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+307,2022-2026,John,Tory,City Council,2,2022-12-15,Afternoon,17:20PM - 18:37PM,Y
+308,2022-2026,Jon,Burnside,Civic Appointments Committee,1,2023-01-05,Morning,09:34AM - 10:21AM,Y
+309,2022-2026,Gary,Crawford,Civic Appointments Committee,1,2023-01-05,Morning,09:34AM - 10:21AM,Y
+310,2022-2026,Amber,Morley,Civic Appointments Committee,1,2023-01-05,Morning,09:34AM - 10:21AM,Y
+311,2022-2026,Jamaal,Myers,Civic Appointments Committee,1,2023-01-05,Morning,09:34AM - 10:21AM,Y
+312,2022-2026,Frances,Nunziata,Civic Appointments Committee,1,2023-01-05,Morning,09:34AM - 10:21AM,Y
+313,2022-2026,Jon,Burnside,Civic Appointments Committee,1,2023-01-05,Morning,10:24AM - 11:10AM,Y
+314,2022-2026,Gary,Crawford,Civic Appointments Committee,1,2023-01-05,Morning,10:24AM - 11:10AM,Y
+315,2022-2026,Amber,Morley,Civic Appointments Committee,1,2023-01-05,Morning,10:24AM - 11:10AM,Y
+316,2022-2026,Jamaal,Myers,Civic Appointments Committee,1,2023-01-05,Morning,10:24AM - 11:10AM,Y
+317,2022-2026,Frances,Nunziata,Civic Appointments Committee,1,2023-01-05,Morning,10:24AM - 11:10AM,Y
+318,2022-2026,Jon,Burnside,Civic Appointments Committee,1,2023-01-05,Morning,11:12AM - 11:15AM,Y
+319,2022-2026,Gary,Crawford,Civic Appointments Committee,1,2023-01-05,Morning,11:12AM - 11:15AM,Y
+320,2022-2026,Amber,Morley,Civic Appointments Committee,1,2023-01-05,Morning,11:12AM - 11:15AM,Y
+321,2022-2026,Jamaal,Myers,Civic Appointments Committee,1,2023-01-05,Morning,11:12AM - 11:15AM,Y
+322,2022-2026,Frances,Nunziata,Civic Appointments Committee,1,2023-01-05,Morning,11:12AM - 11:15AM,Y
+323,2022-2026,Alejandra,Bravo,Toronto Preservation Board,2,2023-01-06,Morning,09:34AM - 11:13AM,Y
+324,2022-2026,Alejandra,Bravo,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+325,2022-2026,Gary,Crawford,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+326,2022-2026,Vincent,Crisanti,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+327,2022-2026,Chris,Moise,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+328,2022-2026,Frances,Nunziata,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+329,2022-2026,Michael,Thompson,Budget Committee,1,2023-01-10,Morning,09:38AM - 12:32PM,Y
+330,2022-2026,Paul,Ainslie,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+331,2022-2026,Shelley,Carroll,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+332,2022-2026,Nick,Mantas,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+333,2022-2026,Chris,Moise,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+334,2022-2026,Jaye,Robinson,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+335,2022-2026,Michael,Thompson,Economic and Community Development Committee ,1,2023-01-11,Morning,09:34AM - 12:47PM,Y
+336,2022-2026,Paul,Ainslie,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+337,2022-2026,Shelley,Carroll,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+338,2022-2026,Nick,Mantas,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+339,2022-2026,Chris,Moise,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+340,2022-2026,Jaye,Robinson,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+341,2022-2026,Michael,Thompson,Economic and Community Development Committee ,1,2023-01-11,Afternoon,13:30PM - 15:33PM,Y
+342,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+343,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+344,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+345,2022-2026,Chris,Moise,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+346,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+347,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-12,Morning,09:36AM - 12:10PM,Y
+348,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+349,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+350,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+351,2022-2026,Chris,Moise,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+352,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+353,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-12,Afternoon,12:15PM - 12:18PM,Y
+354,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+355,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+356,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+357,2022-2026,Chris,Moise,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+358,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+359,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-12,Afternoon,12:19PM - 12:20PM,Y
+360,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+361,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+362,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+363,2022-2026,Chris,Moise,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+364,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+365,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-12,Afternoon,13:37PM - 17:58PM,Y
+366,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+367,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+368,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+369,2022-2026,Chris,Moise,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+370,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+371,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-12,Evening,18:32PM - 20:49PM,Y
+372,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+373,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+374,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+375,2022-2026,Chris,Moise,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+376,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+377,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-13,Morning,09:38AM - 11:40AM,Y
+378,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+379,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+380,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+381,2022-2026,Chris,Moise,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+382,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+383,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-13,Morning,11:52AM - 13:13PM,Y
+384,2022-2026,Alejandra,Bravo,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+385,2022-2026,Gary,Crawford,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+386,2022-2026,Vincent,Crisanti,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+387,2022-2026,Chris,Moise,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+388,2022-2026,Frances,Nunziata,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+389,2022-2026,Michael,Thompson,Budget Committee,2,2023-01-13,Afternoon,14:10PM - 15:03PM,Y
+390,2022-2026,Alejandra,Bravo,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+391,2022-2026,Ausma,Malik,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+392,2022-2026,Nick,Mantas,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+393,2022-2026,Chris,Moise,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+394,2022-2026,Gord,Perks,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+395,2022-2026,Michael,Thompson,Board of Health,1,2023-01-16,Morning,09:43AM - 11:19AM,Y
+396,2022-2026,Alejandra,Bravo,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+397,2022-2026,Ausma,Malik,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+398,2022-2026,Nick,Mantas,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+399,2022-2026,Chris,Moise,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+400,2022-2026,Gord,Perks,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+401,2022-2026,Michael,Thompson,Board of Health,1,2023-01-16,Morning,11:20AM - 12:07PM,Y
+402,2022-2026,Alejandra,Bravo,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+403,2022-2026,Ausma,Malik,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+404,2022-2026,Nick,Mantas,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+405,2022-2026,Chris,Moise,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+406,2022-2026,Gord,Perks,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+407,2022-2026,Michael,Thompson,Board of Health,1,2023-01-16,Afternoon,12:08PM - 14:17PM,Y
+408,2022-2026,Alejandra,Bravo,Budget Subcommittee at City Hall  ,1,2023-01-17,Morning,09:41AM - 13:10PM,Y
+409,2022-2026,Gary,Crawford,Budget Subcommittee at City Hall  ,1,2023-01-17,Morning,09:41AM - 13:10PM,Y
+410,2022-2026,Chris,Moise,Budget Subcommittee at City Hall  ,1,2023-01-17,Morning,09:41AM - 13:10PM,Y
+411,2022-2026,Vincent,Crisanti,Budget Subcommittee at North York Civic Centre,1,2023-01-17,Afternoon,13:32PM - 15:07PM,Y
+412,2022-2026,Frances,Nunziata,Budget Subcommittee at North York Civic Centre,1,2023-01-17,Afternoon,13:32PM - 15:07PM,Y
+413,2022-2026,Michael,Thompson,Budget Subcommittee at North York Civic Centre,1,2023-01-17,Afternoon,13:32PM - 15:07PM,Y
+414,2022-2026,Alejandra,Bravo,Budget Subcommittee at City Hall  ,2,2023-01-17,Afternoon,13:39PM - 16:30PM,Y
+415,2022-2026,Gary,Crawford,Budget Subcommittee at City Hall  ,2,2023-01-17,Afternoon,13:39PM - 16:30PM,Y
+416,2022-2026,Chris,Moise,Budget Subcommittee at City Hall  ,2,2023-01-17,Afternoon,13:39PM - 16:30PM,Y
+417,2022-2026,Vincent,Crisanti,Budget Subcommittee at North York Civic Centre,2,2023-01-17,Evening,18:02PM - 19:17PM,Y
+418,2022-2026,Frances,Nunziata,Budget Subcommittee at North York Civic Centre,2,2023-01-17,Evening,18:02PM - 19:17PM,Y
+419,2022-2026,Michael,Thompson,Budget Subcommittee at North York Civic Centre,2,2023-01-17,Evening,18:02PM - 19:17PM,Y
+420,2022-2026,Alejandra,Bravo,Budget Subcommittee at City Hall  ,3,2023-01-17,Evening,18:04PM - 21:13PM,Y
+421,2022-2026,Gary,Crawford,Budget Subcommittee at City Hall  ,3,2023-01-17,Evening,18:04PM - 21:13PM,Y
+422,2022-2026,Chris,Moise,Budget Subcommittee at City Hall  ,3,2023-01-17,Evening,18:04PM - 21:13PM,Y
+423,2022-2026,Alejandra,Bravo,Budget Subcommittee at Etobicoke Civic Centre,1,2023-01-18,Afternoon,13:30PM - 16:38PM,Y
+424,2022-2026,Vincent,Crisanti,Budget Subcommittee at Etobicoke Civic Centre,1,2023-01-18,Afternoon,13:30PM - 16:38PM,Y
+425,2022-2026,Frances,Nunziata,Budget Subcommittee at Etobicoke Civic Centre,1,2023-01-18,Afternoon,13:30PM - 16:38PM,Y
+426,2022-2026,Gary,Crawford,Budget Subcommittee at Scarborough Civic Centre,1,2023-01-18,Afternoon,13:31PM - 16:58PM,Y
+427,2022-2026,Chris,Moise,Budget Subcommittee at Scarborough Civic Centre,1,2023-01-18,Afternoon,13:31PM - 16:58PM,Y
+428,2022-2026,Michael,Thompson,Budget Subcommittee at Scarborough Civic Centre,1,2023-01-18,Afternoon,13:31PM - 16:58PM,Y
+429,2022-2026,Gary,Crawford,Budget Subcommittee at Scarborough Civic Centre,2,2023-01-18,Evening,18:11PM - 20:27PM,Y
+430,2022-2026,Chris,Moise,Budget Subcommittee at Scarborough Civic Centre,2,2023-01-18,Evening,18:11PM - 20:27PM,Y
+431,2022-2026,Michael,Thompson,Budget Subcommittee at Scarborough Civic Centre,2,2023-01-18,Evening,18:11PM - 20:27PM,Y
+432,2022-2026,Alejandra,Bravo,Budget Subcommittee at Etobicoke Civic Centre,2,2023-01-18,Evening,18:30PM - 20:44PM,Y
+433,2022-2026,Vincent,Crisanti,Budget Subcommittee at Etobicoke Civic Centre,2,2023-01-18,Evening,18:30PM - 20:44PM,Y
+434,2022-2026,Frances,Nunziata,Budget Subcommittee at Etobicoke Civic Centre,2,2023-01-18,Evening,18:30PM - 20:44PM,Y
+435,2022-2026,Brad,Bradford,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+436,2022-2026,Vincent,Crisanti,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+437,2022-2026,Paula,Fletcher,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+438,2022-2026,Ausma,Malik,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+439,2022-2026,Jamaal,Myers,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+440,2022-2026,Frances,Nunziata,Planning and Housing Committee,1,2023-01-19,Morning,09:38AM - 11:32AM,Y
+441,2022-2026,Alejandra,Bravo,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+442,2022-2026,Lily,Cheng,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+443,2022-2026,Stephen,Holyday,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+444,2022-2026,Josh,Matlow,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+445,2022-2026,James,Pasternak,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+446,2022-2026,Gord,Perks,General Government Committee,1,2023-01-20,Morning,11:03AM - 13:16PM,Y
+447,2022-2026,Vincent,Crisanti,Etobicoke York Community Council,2,2023-01-23,Morning,09:33AM - 11:24AM,Y
+448,2022-2026,Stephen,Holyday,Etobicoke York Community Council,2,2023-01-23,Morning,09:33AM - 11:24AM,Y
+449,2022-2026,Amber,Morley,Etobicoke York Community Council,2,2023-01-23,Morning,09:33AM - 11:24AM,Y
+450,2022-2026,Frances,Nunziata,Etobicoke York Community Council,2,2023-01-23,Morning,09:33AM - 11:24AM,Y
+451,2022-2026,Anthony,Perruzza,Etobicoke York Community Council,2,2023-01-23,Morning,09:33AM - 11:24AM,N
+452,2022-2026,Alejandra,Bravo,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+453,2022-2026,Gary,Crawford,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+454,2022-2026,Vincent,Crisanti,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+455,2022-2026,Chris,Moise,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+456,2022-2026,Frances,Nunziata,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+457,2022-2026,Michael,Thompson,Budget Committee,3,2023-01-24,Morning,09:38AM - 12:25PM,Y
+458,2022-2026,Alejandra,Bravo,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+459,2022-2026,Gary,Crawford,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+460,2022-2026,Vincent,Crisanti,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+461,2022-2026,Chris,Moise,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+462,2022-2026,Frances,Nunziata,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+463,2022-2026,Michael,Thompson,Budget Committee,3,2023-01-24,Afternoon,13:38PM - 14:57PM,Y
+464,2022-2026,Jon,Burnside,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+465,2022-2026,Shelley,Carroll,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+466,2022-2026,Lily,Cheng,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+467,2022-2026,Mike,Colle,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+468,2022-2026,James,Pasternak,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+469,2022-2026,Jaye,Robinson,North York Community Council,2,2023-01-25,Morning,09:33AM - 10:59AM,Y
+470,2022-2026,Brad,Bradford,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+471,2022-2026,Alejandra,Bravo,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+472,2022-2026,Paula,Fletcher,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,N
+473,2022-2026,Ausma,Malik,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+474,2022-2026,Josh,Matlow,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+475,2022-2026,Chris,Moise,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+476,2022-2026,Gord,Perks,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+477,2022-2026,Dianne,Saxe,Toronto and East York Community Council,2,2023-01-26,Morning,09:35AM - 11:34AM,Y
+478,2022-2026,Brad,Bradford,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+479,2022-2026,Alejandra,Bravo,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+480,2022-2026,Paula,Fletcher,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,N
+481,2022-2026,Ausma,Malik,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+482,2022-2026,Josh,Matlow,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+483,2022-2026,Chris,Moise,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+484,2022-2026,Gord,Perks,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+485,2022-2026,Dianne,Saxe,Toronto and East York Community Council,2,2023-01-26,Morning,11:43AM - 11:46AM,Y
+486,2022-2026,Paul,Ainslie,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+487,2022-2026,Gary,Crawford,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+488,2022-2026,Nick,Mantas,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+489,2022-2026,Jennifer,McKelvie,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+490,2022-2026,Jamaal,Myers,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+491,2022-2026,Michael,Thompson,Scarborough Community Council,2,2023-01-27,Morning,09:34AM - 12:37PM,Y
+492,2022-2026,Jon,Burnside,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+493,2022-2026,Mike,Colle,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+494,2022-2026,Jennifer,McKelvie,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+495,2022-2026,Amber,Morley,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+496,2022-2026,Anthony,Perruzza,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+497,2022-2026,Dianne,Saxe,Infrastructure and Environment Committee,1,2023-01-30,Morning,09:36AM - 11:40AM,Y
+498,2022-2026,Jon,Burnside,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+499,2022-2026,Mike,Colle,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+500,2022-2026,Jennifer,McKelvie,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+501,2022-2026,Amber,Morley,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+502,2022-2026,Anthony,Perruzza,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+503,2022-2026,Dianne,Saxe,Infrastructure and Environment Committee,1,2023-01-30,Morning,11:55AM - 12:26PM,Y
+504,2022-2026,Jon,Burnside,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+505,2022-2026,Mike,Colle,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+506,2022-2026,Jennifer,McKelvie,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+507,2022-2026,Amber,Morley,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+508,2022-2026,Anthony,Perruzza,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+509,2022-2026,Dianne,Saxe,Infrastructure and Environment Committee,1,2023-01-30,Afternoon,13:12PM - 17:10PM,Y
+510,2022-2026,Paul,Ainslie,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+511,2022-2026,Brad,Bradford,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+512,2022-2026,Shelley,Carroll,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+513,2022-2026,Lily,Cheng,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+514,2022-2026,Gary,Crawford,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+515,2022-2026,Jennifer,McKelvie,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+516,2022-2026,Amber,Morley,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+517,2022-2026,James,Pasternak,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+518,2022-2026,John,Tory,Executive Committee,2,2023-01-31,Morning,09:39AM - 12:38PM,Y
+519,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Morning,08:53AM - 08:56AM,Y
+520,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Morning,08:53AM - 08:56AM,Y
+521,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Morning,08:53AM - 08:56AM,Y
+522,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Morning,08:53AM - 08:56AM,Y
+523,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Morning,08:53AM - 08:56AM,Y
+524,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Morning,08:57AM - 13:24PM,Y
+525,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Morning,08:57AM - 13:24PM,Y
+526,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Morning,08:57AM - 13:24PM,Y
+527,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Morning,08:57AM - 13:24PM,Y
+528,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Morning,08:57AM - 13:24PM,Y
+529,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Afternoon,13:25PM - 13:27PM,Y
+530,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Afternoon,13:25PM - 13:27PM,Y
+531,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Afternoon,13:25PM - 13:27PM,Y
+532,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Afternoon,13:25PM - 13:27PM,Y
+533,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Afternoon,13:25PM - 13:27PM,Y
+534,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Afternoon,14:06PM - 14:09PM,Y
+535,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Afternoon,14:06PM - 14:09PM,Y
+536,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Afternoon,14:06PM - 14:09PM,Y
+537,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Afternoon,14:06PM - 14:09PM,Y
+538,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Afternoon,14:06PM - 14:09PM,Y
+539,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Afternoon,14:10PM - 18:16PM,Y
+540,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Afternoon,14:10PM - 18:16PM,Y
+541,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Afternoon,14:10PM - 18:16PM,Y
+542,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Afternoon,14:10PM - 18:16PM,Y
+543,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Afternoon,14:10PM - 18:16PM,Y
+544,2022-2026,Jon,Burnside,Civic Appointments Committee,2,2023-02-01,Evening,18:17PM - 18:19PM,Y
+545,2022-2026,Gary,Crawford,Civic Appointments Committee,2,2023-02-01,Evening,18:17PM - 18:19PM,Y
+546,2022-2026,Amber,Morley,Civic Appointments Committee,2,2023-02-01,Evening,18:17PM - 18:19PM,Y
+547,2022-2026,Jamaal,Myers,Civic Appointments Committee,2,2023-02-01,Evening,18:17PM - 18:19PM,Y
+548,2022-2026,Frances,Nunziata,Civic Appointments Committee,2,2023-02-01,Evening,18:17PM - 18:19PM,Y
+549,2022-2026,Paul,Ainslie,Board of Governors of Exhibition Place,2,2023-02-02,Morning,09:33AM - 10:06AM,Y
+550,2022-2026,Gary,Crawford,Board of Governors of Exhibition Place,2,2023-02-02,Morning,09:33AM - 10:06AM,Y
+551,2022-2026,Ausma,Malik,Board of Governors of Exhibition Place,2,2023-02-02,Morning,09:33AM - 10:06AM,Y
+552,2022-2026,Nick,Mantas,Board of Governors of Exhibition Place,2,2023-02-02,Morning,09:33AM - 10:06AM,N
+553,2022-2026,Anthony,Perruzza,Board of Governors of Exhibition Place,2,2023-02-02,Morning,09:33AM - 10:06AM,Y
+554,2022-2026,Brad,Bradford,CreateTO,2,2023-02-06,Afternoon,13:39PM - 14:11PM,Y
+555,2022-2026,Paula,Fletcher,CreateTO,2,2023-02-06,Afternoon,13:39PM - 14:11PM,Y
+556,2022-2026,Brad,Bradford,CreateTO,2,2023-02-06,Afternoon,14:18PM - 15:14PM,Y
+557,2022-2026,Paula,Fletcher,CreateTO,2,2023-02-06,Afternoon,14:18PM - 15:14PM,Y
+558,2022-2026,Brad,Bradford,CreateTO,2,2023-02-06,Afternoon,15:15PM - 15:18PM,Y
+559,2022-2026,Paula,Fletcher,CreateTO,2,2023-02-06,Afternoon,15:15PM - 15:18PM,N
+560,2022-2026,Mike,Colle,Audit Committee,1,2023-02-13,Morning,09:36AM - 10:55AM,Y
+561,2022-2026,Stephen,Holyday,Audit Committee,1,2023-02-13,Morning,09:36AM - 10:55AM,Y
+562,2022-2026,Ausma,Malik,Audit Committee,1,2023-02-13,Morning,09:36AM - 10:55AM,Y
+563,2022-2026,Jamaal,Myers,Audit Committee,1,2023-02-13,Morning,09:36AM - 10:55AM,Y
+564,2022-2026,Frances,Nunziata,Audit Committee,1,2023-02-13,Morning,09:36AM - 10:55AM,Y
+565,2022-2026,Mike,Colle,Audit Committee,1,2023-02-13,Morning,11:00AM - 12:34PM,Y
+566,2022-2026,Stephen,Holyday,Audit Committee,1,2023-02-13,Morning,11:00AM - 12:34PM,Y
+567,2022-2026,Ausma,Malik,Audit Committee,1,2023-02-13,Morning,11:00AM - 12:34PM,Y
+568,2022-2026,Jamaal,Myers,Audit Committee,1,2023-02-13,Morning,11:00AM - 12:34PM,Y
+569,2022-2026,Frances,Nunziata,Audit Committee,1,2023-02-13,Morning,11:00AM - 12:34PM,Y
+570,2022-2026,Gary,Crawford,TO Live - Finance and Audit Committee,2,2023-02-13,Afternoon,12:34PM - 12:47PM,N
+571,2022-2026,Gary,Crawford,TO Live - Finance and Audit Committee,2,2023-02-13,Afternoon,12:49PM - 13:07PM,N
+572,2022-2026,Gary,Crawford,TO Live - Finance and Audit Committee,2,2023-02-13,Afternoon,13:08PM - 13:09PM,N
